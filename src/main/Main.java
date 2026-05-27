@@ -1,3 +1,5 @@
+package main;
+
 import java.util.*;
 public class Main {
     public static boolean isValidInput(int age, double income, int credit_score, char employment) {
